@@ -1,4 +1,4 @@
-<?php
+<?pph
 	echo "Hello World";
 
 ?>
